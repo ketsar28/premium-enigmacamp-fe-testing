@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email</name>
+   <tag></tag>
+   <elementGuidId>f348d3f7-8b2e-41d3-bfce-1e230021ec67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-banner']/div/div[2]/div/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.ng-untouched.ng-pristine.ng-invalid > div.ec-row > div.ec-col-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Email$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad105b33-b9d5-4ed4-8c59-257f098e976a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-col-12</value>
+      <webElementGuid>aebfcd06-411b-4e87-924f-599197a61441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>3621c37d-07e0-493c-b9e0-cd19a848784e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-banner&quot;)/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 ec-col-md-4 d-flex&quot;]/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 d-flex flex-column justify-content-end&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12&quot;]</value>
+      <webElementGuid>6c0882cd-94bb-4b9c-bb56-38febacfb31f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-banner']/div/div[2]/div/div/form/div/div</value>
+      <webElementGuid>8ed5a95b-09a8-443c-ba88-9a2c069167fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/following::div[2]</value>
+      <webElementGuid>2d12f9f7-b8b0-446f-8fa2-7575a2a8eba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>06dbcaad-ab23-41e0-9544-063e9fa71307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>8815f107-30fa-4168-af61-3cac8d4e8247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>0c176738-2b18-476b-9f20-020adfb9dc02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

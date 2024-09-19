@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back</name>
+   <tag></tag>
+   <elementGuidId>c0ee9c79-7f03-4897-94e3-542f31472fe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-neutral-800</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Back')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Back&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>394f9220-e59e-4209-8270-d82fc8b31b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutral-800</value>
+      <webElementGuid>2ac81a8f-f9b7-4f56-9f2b-8728b845df62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Back</value>
+      <webElementGuid>2ac21b04-967e-4583-b424-7411440aec81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/div[@class=&quot;d-flex flex-column pt-3&quot;]/app-back-button[1]/nav[1]/div[@class=&quot;py-3&quot;]/a[@class=&quot;text-neutral-800&quot;]</value>
+      <webElementGuid>1f4d6705-a9a1-49ee-a176-4cf181c22cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back')]</value>
+      <webElementGuid>f7fb9e17-f744-4377-84cf-14b78fbeb50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[1]</value>
+      <webElementGuid>438c7ff3-a118-4f9e-a66d-13de2f990a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart is empty'])[1]/preceding::a[1]</value>
+      <webElementGuid>89dfa323-72cb-4984-9fa7-9bb013024199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Course'])[1]/preceding::a[1]</value>
+      <webElementGuid>5215625c-0aa1-45c3-9c7f-395d60ecdbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/a</value>
+      <webElementGuid>2d137fde-31b0-4087-beba-de5cf2e9595c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '  Back' or . = '  Back')]</value>
+      <webElementGuid>c3cf4a83-0d33-4b0c-b3de-9447cc100a7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the 'Explore Course' button, selects multiple courses or packages, and clicks 'Add to Cart' on each chosen course/package, the user is redirected to the Home/Catalogue page. The cart icon updates to reflect the added packages, and the Shopping Cart page displays the increased number of items, with the title reflecting the updated total.</description>
+   <name>TS-002_Verify User Can Add Multiple Packages to Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a03df222-bf92-4ee5-8d80-b251bd9711cf</testCaseGuid>
+</TestCaseEntity>

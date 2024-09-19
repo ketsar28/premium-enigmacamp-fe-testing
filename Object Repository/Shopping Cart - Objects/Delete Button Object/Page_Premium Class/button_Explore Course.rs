@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Explore Course</name>
+   <tag></tag>
+   <elementGuidId>86283529-00dd-47d8-808b-e224c67f18f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ec-btn.ec-btn-primary.ec-btn-rounded.custom-width.mb-5.custom-width</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Explore Course&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c61d2267-a1e5-45f0-96b3-e76526c7f96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb346b02-6ea8-4845-be44-4ee6d730ae23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-btn ec-btn-primary ec-btn-rounded custom-width mb-5 custom-width</value>
+      <webElementGuid>f46547c2-4212-4013-8ef9-f52560c99957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Explore Course </value>
+      <webElementGuid>ffd57d51-014f-4179-8af9-32cb8b8cd94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/div[@class=&quot;d-flex flex-column pt-3&quot;]/div[@class=&quot;row d-flex flex-row pt-4 gap-5&quot;]/div[@class=&quot;col-7 wrapper-left d-flex align-items-center justify-content-center mt-3&quot;]/app-empty-component[1]/div[@class=&quot;d-flex flex-column align-items-center justify-content-center&quot;]/button[@class=&quot;ec-btn ec-btn-primary ec-btn-rounded custom-width mb-5 custom-width&quot;]</value>
+      <webElementGuid>e8ff475e-327e-49b9-b1ff-c4a468d5074e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>842c7cc9-db02-4cd1-a4e3-896af8a7949b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart is empty'])[1]/following::button[1]</value>
+      <webElementGuid>d21e905d-ce42-4eb3-bd04-cd38de2cc027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Details'])[1]/preceding::button[1]</value>
+      <webElementGuid>7c16b1ec-4ec8-43a6-bb10-4d0dc9da79d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/preceding::button[1]</value>
+      <webElementGuid>438b0a23-a3ad-4132-b9cb-5f72f4a64fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Explore Course']/parent::*</value>
+      <webElementGuid>f2860666-30d6-4d8c-bd52-098a45794e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b299b2f9-937c-462e-b9cf-9582fb1915ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Explore Course ' or . = ' Explore Course ')]</value>
+      <webElementGuid>91b89533-e23d-4d16-af45-1338c1eb2555</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

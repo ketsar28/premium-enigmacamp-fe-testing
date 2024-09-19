@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3</name>
+   <tag></tag>
+   <elementGuidId>25e21bfa-b970-42db-a86b-d3d0a818f012</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-notification</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;3&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07c7f155-28a8-4e36-b4c8-f542e828a165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-notification</value>
+      <webElementGuid>f18c2a85-aa7e-484d-98cb-c144169965dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>1cd54e24-aa2e-4935-8adb-4901d6488ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-navbar-dashboard[1]/div[@class=&quot;d-flex flex-column pt-4 navbar&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column flex-md-row justify-content-start gap-2 header align-items-center&quot;]/div[@class=&quot;ms-auto d-flex flex-row gap-3 align-items-center&quot;]/div[@class=&quot;position-relative&quot;]/a[1]/span[@class=&quot;badge badge-notification&quot;]</value>
+      <webElementGuid>2090aa6a-fbe0-4670-8b76-84379f2ca85d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::span[1]</value>
+      <webElementGuid>168f35b7-61b1-4b86-814d-0c0e64261855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::span[2]</value>
+      <webElementGuid>a3bc2107-5b38-4da9-b760-dfbcebfb073f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d671a52-d371-4d16-9ead-18f9a06a170c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='you can choose package based what you want!'])[1]/preceding::span[2]</value>
+      <webElementGuid>003b6ab7-c2ca-4886-abc4-fda2355b5f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3']/parent::*</value>
+      <webElementGuid>ed6b8c85-03c5-4285-aa4a-f534b5fd1b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a/span</value>
+      <webElementGuid>c77254ca-927a-4c27-9c26-5830a029cb9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3' or . = '3')]</value>
+      <webElementGuid>e690b1e6-abca-471b-a44d-63e76797c7d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

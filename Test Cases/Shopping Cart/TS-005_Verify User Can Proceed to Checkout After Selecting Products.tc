@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after the user selects individual products by clicking the checkboxes in the Shopping Cart, the &quot;Check Out&quot; button can be clicked. A modal box appears, displaying payment service information and the total price of the selected products, ensuring accurate reflection of the subtotal based on the selected items.</description>
+   <name>TS-005_Verify User Can Proceed to Checkout After Selecting Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3af84d79-8710-4c18-8a8c-b523b686e45f</testCaseGuid>
+</TestCaseEntity>

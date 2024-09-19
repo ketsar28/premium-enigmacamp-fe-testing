@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the checkbox for each selected product on the Shopping Cart page, the corresponding checkboxes are selected. The quantity in the Order Details reflects the total number of selected products, and the subtotal updates accurately to reflect the combined price of the selected products.</description>
+   <name>TS-004_Verify User Can Select Individual Products in Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>931a7c52-7162-4943-b1a2-dfe5a5043e46</testCaseGuid>
+</TestCaseEntity>

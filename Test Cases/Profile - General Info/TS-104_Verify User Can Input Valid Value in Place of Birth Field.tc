@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can input a valid value in the &quot;Place of Birth&quot; field and that the field functions according to the requirement. The user should be able to enter a new value into the &quot;Place of Birth&quot; field.</description>
+   <name>TS-104_Verify User Can Input Valid Value in Place of Birth Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6df7434a-f1ff-49c9-9ad3-4c2d716be270</testCaseGuid>
+</TestCaseEntity>

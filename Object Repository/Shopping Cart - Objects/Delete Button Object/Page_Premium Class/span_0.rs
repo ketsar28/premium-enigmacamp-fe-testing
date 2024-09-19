@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_0</name>
+   <tag></tag>
+   <elementGuidId>fc5cbd77-bd6b-4175-a590-9b8bcfd9ee56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-notification</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;0&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c071648-ff88-4513-9c36-6b0e6aa8c79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-notification</value>
+      <webElementGuid>b7757b46-20a3-4e7e-8723-3242046fa6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bbcb4617-f564-4a98-a539-c6c0df002bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-navbar-dashboard[1]/div[@class=&quot;d-flex flex-column pt-4 navbar&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-flex flex-column flex-md-row justify-content-start gap-2 header align-items-center&quot;]/div[@class=&quot;ms-auto d-flex flex-row gap-3 align-items-center&quot;]/div[@class=&quot;position-relative&quot;]/a[1]/span[@class=&quot;badge badge-notification&quot;]</value>
+      <webElementGuid>fa0c7d79-23c5-4804-b6fd-8bf7f6bc6098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::span[1]</value>
+      <webElementGuid>051726b1-4a20-4094-ac67-3dada936b5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::span[2]</value>
+      <webElementGuid>f5b86f4f-bee4-4796-9d8b-99f5fe5f25f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalogue'])[1]/preceding::span[1]</value>
+      <webElementGuid>d6e3037a-09d3-466f-9f97-eef76339eaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::span[1]</value>
+      <webElementGuid>b85c9f10-c14f-4640-b863-ab11f9dd6d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0']/parent::*</value>
+      <webElementGuid>2fd9b575-4404-44ba-91b7-db8ca4e0b664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a/span</value>
+      <webElementGuid>23811755-38b4-414a-8159-82fe3f416cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0' or . = '0')]</value>
+      <webElementGuid>0c4db022-45b3-4502-8d97-6cf296038d77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

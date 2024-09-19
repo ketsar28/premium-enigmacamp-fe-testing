@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp120,000</name>
+   <tag></tag>
+   <elementGuidId>67a067de-73b4-4887-b10e-9d29aa8bbdd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[6]/div[2]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^swiftswift di ganti terserahRp120,000$/ >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b605a8c1-5d41-4aa1-ae61-b21876a97a7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-price justify-content-center align-items-center d-flex gap-2</value>
+      <webElementGuid>409e6c0a-919c-49bf-aeb1-abcde5e356c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp120,000</value>
+      <webElementGuid>9de11d2b-4c98-4e47-bc12-c78f511a4385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2&quot;)/div[@class=&quot;ec-row d-flex flex-row card-course py-2&quot;]/div[@class=&quot;col-6 text-end&quot;]/div[@class=&quot;d-flex flex-row gap-2 align-items-center justify-content-end&quot;]/a[@class=&quot;d-flex flex-row text-end justify-content-end ms-auto gap-2 align-items-center price-accordion&quot;]/div[@class=&quot;custom-price justify-content-center align-items-center d-flex gap-2&quot;]</value>
+      <webElementGuid>f0ab9bd7-e564-4775-b844-bb3a90ea5beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[6]/div[2]/div/a/div</value>
+      <webElementGuid>73d5ceb5-881b-456d-8d3b-248b92b92e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swift di ganti terserah'])[1]/following::div[3]</value>
+      <webElementGuid>cb93864e-d5e4-4f65-929e-6fdc0f38fe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swift'])[1]/following::div[3]</value>
+      <webElementGuid>9159febc-7609-4a31-9589-ed8256e0bbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Rp9'])[1]/preceding::div[2]</value>
+      <webElementGuid>1de26e4c-5f27-4cd1-9692-68c6af228e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/a/div</value>
+      <webElementGuid>da096709-f765-4772-b063-8a845b0c184b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp120,000' or . = 'Rp120,000')]</value>
+      <webElementGuid>decd7647-0c9b-4373-ab1b-8c5e5675f7d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

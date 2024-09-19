@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user does not select any value in the &quot;Education&quot; field, the system does not provide any response, and the user can proceed successfully without choosing any option.</description>
+   <name>TS-109_Verify No Response When Education Field is Unselected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>399f4b78-cc9c-4095-b6a6-68f793f39ee1</testCaseGuid>
+</TestCaseEntity>

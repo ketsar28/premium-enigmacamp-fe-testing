@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Back_pt-5</name>
+   <tag></tag>
+   <elementGuidId>6fdb45d6-88d4-4941-aa41-d7d708e0f663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.pt-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Empty Picture']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Empty Picture&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>556861b4-48a7-4e31-9f7f-275d78245396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Empty Picture</value>
+      <webElementGuid>bb476a14-ff9c-42ac-a5c2-b42bfa20098a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-5</value>
+      <webElementGuid>731c305e-09b0-4f01-98e9-0acdb0b0c1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/empty-cart.svg</value>
+      <webElementGuid>7e94f828-923c-4284-861d-d6e82bb50b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/div[@class=&quot;d-flex flex-column pt-3&quot;]/div[@class=&quot;row d-flex flex-row pt-4 gap-5&quot;]/div[@class=&quot;col-7 wrapper-left d-flex align-items-center justify-content-center mt-3&quot;]/app-empty-component[1]/div[@class=&quot;d-flex flex-column align-items-center justify-content-center&quot;]/img[@class=&quot;pt-5&quot;]</value>
+      <webElementGuid>525af770-4cda-4293-88a9-e2f3ac701142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Empty Picture']</value>
+      <webElementGuid>c02cbf5e-a6d6-413f-bd7e-82d88d86ac42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-empty-component/div/img</value>
+      <webElementGuid>1d67e2ec-41cc-44d4-b0e2-e6f7c59cf3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Empty Picture' and @src = 'assets/empty-cart.svg']</value>
+      <webElementGuid>bcc4e402-3346-4a1c-9d1c-82c35db65006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can proceed without selecting a value in the &quot;Gender&quot; field. When the user does not input any value in the &quot;Gender&quot; field, the system does not respond or show an error, allowing the user to continue without making a selection.</description>
+   <name>TS-114_Verify No Selection on Gender Field is Allowed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55338ca7-5990-4fbf-88c0-5acc6425bcdd</testCaseGuid>
+</TestCaseEntity>

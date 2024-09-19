@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp120,000_1_2</name>
+   <tag></tag>
+   <elementGuidId>5bedf320-8042-4f9f-9fa0-bad71baaf592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ec-row.pt-2 > div.ec-col-6.text-end > span.ec-fs-5.fw-medium.ec-neutral-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div/div/div[2]/div[4]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Rp120,000&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4043c2f-f565-4a1d-bef3-50dbc8ca6601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-fs-5 fw-medium ec-neutral-900</value>
+      <webElementGuid>4aba2f1b-31de-433c-a386-b11abd827bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp120,000</value>
+      <webElementGuid>16a43522-ade3-499c-8b2d-fe8abc5a3a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/app-modal-checkout[1]/div[@id=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered custom-modal-width&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;container-header&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ec-row pt-2&quot;]/div[@class=&quot;ec-col-6 text-end&quot;]/span[@class=&quot;ec-fs-5 fw-medium ec-neutral-900&quot;]</value>
+      <webElementGuid>b428a6ec-391b-4610-88ac-75d612762ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div[2]/div[4]/div[2]/span</value>
+      <webElementGuid>4bd2c8b4-e661-43c1-9825-bfcc58a947e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[2]/following::span[1]</value>
+      <webElementGuid>7ce72147-f821-4480-8be9-2db957ae21a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[2]/following::span[3]</value>
+      <webElementGuid>0114676e-bb84-4102-8d4c-88b45c47b0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/preceding::span[1]</value>
+      <webElementGuid>e18da16c-ea1c-443b-9223-c733c96f7ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp120,000'])[5]/preceding::span[2]</value>
+      <webElementGuid>9a498368-9e9c-4480-a5b8-9428bab46a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span</value>
+      <webElementGuid>b9d8cfe7-3de4-4832-a343-afa2b0b189f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp120,000' or . = 'Rp120,000')]</value>
+      <webElementGuid>32971e95-dfbe-47f8-8fac-b2bd3b1b2d66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

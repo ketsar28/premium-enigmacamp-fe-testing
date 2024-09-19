@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp200,000_1</name>
+   <tag></tag>
+   <elementGuidId>b37d7a73-b68e-44c7-aa28-96ff55ac50ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete all'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Rp200,000&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59cedb69-94f7-48c2-ae15-533d3b44667d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-5</value>
+      <webElementGuid>a43d69a1-3e57-4b51-88bf-6c0ab26f9a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp200,000</value>
+      <webElementGuid>b5b69316-e9e9-41bd-b8ae-3eb624b700f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/div[@class=&quot;d-flex flex-column pt-3&quot;]/div[@class=&quot;row d-flex flex-row pt-4 gap-5&quot;]/div[@class=&quot;col-7 wrapper-left px-3 py-3&quot;]/div[@class=&quot;d-flex gap-3 py-3&quot;]/div[@class=&quot;card-custom&quot;]/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-6 text-end align-bottom mt-3&quot;]/div[@class=&quot;discounted-price&quot;]/span[@class=&quot;pb-5&quot;]</value>
+      <webElementGuid>369b2404-bccd-4aea-a480-01b4682d350e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete all'])[1]/following::span[1]</value>
+      <webElementGuid>30ba535d-1da1-44c6-9e88-25ebc0b7256d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all products'])[1]/following::span[2]</value>
+      <webElementGuid>6d9891ef-bc91-45fb-b4a2-e8cf2de9c522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bismillah bisa edited'])[1]/preceding::span[1]</value>
+      <webElementGuid>c4ae4ef6-86ad-4076-b492-933d2b485c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customize package'])[1]/preceding::span[2]</value>
+      <webElementGuid>888d41da-5c3f-4c4a-8e79-9a3e27d1b841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp200,000']/parent::*</value>
+      <webElementGuid>befdc185-4d94-41a8-aa2e-61c65a0fbfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>6f1e3a87-3be2-48ce-a309-80079f2ee058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp200,000' or . = 'Rp200,000')]</value>
+      <webElementGuid>f7be738e-4aef-4528-bc55-a6c7ea680453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

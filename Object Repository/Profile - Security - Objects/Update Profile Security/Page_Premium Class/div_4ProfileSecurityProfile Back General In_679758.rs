@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4ProfileSecurityProfile Back General In_679758</name>
+   <tag></tag>
+   <elementGuidId>8f104ade-ba1b-4f1b-af62-2962b4946c5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;4ProfileSecurityProfile Back General Info Security PasswordYou are allowed to ch&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0124f3b-e098-43d9-bff1-90add3168aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-content</value>
+      <webElementGuid>03daaa00-f2ac-4048-9643-9b59a80ae091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent PasswordNew PasswordConfirmation New Password Save Password </value>
+      <webElementGuid>823cc3ec-2f89-42a5-b888-b99282f7fa20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]</value>
+      <webElementGuid>3082ad69-48bd-4222-8762-b55c4d82406f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[1]</value>
+      <webElementGuid>3265b273-47b8-4a2f-b236-fb5283c4b50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[2]</value>
+      <webElementGuid>8a5fbbed-2614-46c9-8d1a-0faeb22ae037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>22a53ad3-7d81-4e66-844b-8d5f7c0bbd0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent PasswordNew PasswordConfirmation New Password Save Password ' or . = ' 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent PasswordNew PasswordConfirmation New Password Save Password ')]</value>
+      <webElementGuid>9a04bd4a-df95-4426-8c12-b1e420cf1b7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after the user selects a product on the Shopping Cart page and clicks the 'Check Out' button followed by the 'Payment' button, the user is redirected to the Snap Midtrans payment page. The page displays the total payment amount and the available payment methods (e.g., credit card, bank transfer, e-wallet, etc.) according to the transaction token URL.</description>
+   <name>TS-015_Verify User is Redirected to Snap Midtrans Payment Page After Product Selection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11e5a41e-1c0d-40f7-afcb-98750f5ac37d</testCaseGuid>
+</TestCaseEntity>

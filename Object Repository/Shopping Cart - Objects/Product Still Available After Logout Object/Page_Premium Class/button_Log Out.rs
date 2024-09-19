@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log Out</name>
+   <tag></tag>
+   <elementGuidId>04bdee76-208b-4883-8efc-788aed8711b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ec-btn.ec-btn-primary.ec-btn-rounded.min-width-button.mt-4.mb-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Log Out&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>06c867f0-09ba-4688-9514-c5dcdd8f822e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d5b68591-b7da-4afa-921b-315355b2e580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>7a02d93a-ee99-4a4d-b127-4c26bdad4d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-btn ec-btn-primary ec-btn-rounded min-width-button mt-4 mb-1</value>
+      <webElementGuid>6b2e9b21-561c-4aaf-b41b-930edcd58e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log Out </value>
+      <webElementGuid>c7a2ad2e-dd93-4a8b-85b1-7e9b01385d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered custom-modal-width&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body text-center&quot;]/div[@class=&quot;d-flex justify-content-center border-top&quot;]/button[@class=&quot;ec-btn ec-btn-primary ec-btn-rounded min-width-button mt-4 mb-1&quot;]</value>
+      <webElementGuid>413220ae-714a-4f22-bf59-618f28cd4a9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>72cda7ba-2624-4e97-a144-f43577f255f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div[2]/div[3]/button[2]</value>
+      <webElementGuid>aeb23c8e-b197-40f4-9b01-ad49fa436242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>bd081710-b5cd-4af1-b7db-8219b04f1f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure want to log out ?'])[1]/following::button[2]</value>
+      <webElementGuid>4fbe4cb9-9572-4029-bfbb-5b4d79cefaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>76a05d5e-0782-44da-a7b3-73f53c932109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Log Out ' or . = ' Log Out ')]</value>
+      <webElementGuid>0ece58c2-10f1-40e3-8e48-fdfcdbfac962</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

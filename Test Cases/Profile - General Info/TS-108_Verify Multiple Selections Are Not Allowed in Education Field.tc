@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the system rejects multiple selections in the &quot;Education&quot; field or only accepts a single valid option when the user attempts to select more than one option from the dropdown.</description>
+   <name>TS-108_Verify Multiple Selections Are Not Allowed in Education Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7492b5f3-1572-42ba-ada9-9f0371998a43</testCaseGuid>
+</TestCaseEntity>

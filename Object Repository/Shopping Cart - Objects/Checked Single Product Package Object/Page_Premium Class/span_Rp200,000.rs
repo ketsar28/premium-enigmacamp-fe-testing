@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp200,000</name>
+   <tag></tag>
+   <elementGuidId>9076b4b8-e42c-4cfa-bab8-acba090aa7b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ec-secondary-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[5]/div[2]/div/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Rp200,000&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bd4ca95-db5b-473b-a4d3-1171a8b7b35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-secondary-500</value>
+      <webElementGuid>cc698c66-22c5-4cb3-8a5e-bcc466b688a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp200,000</value>
+      <webElementGuid>edfd5567-06ac-4e97-b6b8-5391f0269622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2&quot;)/div[@class=&quot;ec-row d-flex flex-row card-course py-2&quot;]/div[@class=&quot;col-6 text-end&quot;]/div[@class=&quot;d-flex flex-row gap-2 align-items-center justify-content-end&quot;]/a[@class=&quot;d-flex flex-row text-end justify-content-end ms-auto gap-2 align-items-center price-accordion&quot;]/div[@class=&quot;custom-price justify-content-center align-items-center d-flex gap-2&quot;]/span[@class=&quot;ec-secondary-500&quot;]</value>
+      <webElementGuid>b98f88ff-25b1-4caa-9732-be51718d791e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[5]/div[2]/div/a/div/span</value>
+      <webElementGuid>232aa7a3-b5cd-43fe-abc4-7bfc89301f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::span[1]</value>
+      <webElementGuid>5bfd0d7f-413b-4295-8657-0ff615816751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Golang Database'])[1]/following::span[2]</value>
+      <webElementGuid>78e6bc02-b08b-48d1-b9e9-1750008f65c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swift'])[1]/preceding::span[1]</value>
+      <webElementGuid>1f527998-db2b-44ef-869e-027794516de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swift di ganti terserah'])[1]/preceding::span[2]</value>
+      <webElementGuid>c881ec02-30f1-4df2-b858-3c0a82ed3b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>2558212c-2efe-401e-a356-f2bb4dd3ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp200,000' or . = 'Rp200,000')]</value>
+      <webElementGuid>e560822f-d62d-4664-af43-d63cc828cf71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

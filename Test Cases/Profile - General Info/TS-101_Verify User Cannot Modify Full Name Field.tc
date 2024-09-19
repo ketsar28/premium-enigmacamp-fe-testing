@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that the &quot;Full Name&quot; field is disabled and that the user is unable to input or modify the value in the field.</description>
+   <name>TS-101_Verify User Cannot Modify Full Name Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66cbcd1c-e6cc-4682-847d-a05806a52e81</testCaseGuid>
+</TestCaseEntity>

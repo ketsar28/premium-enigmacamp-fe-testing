@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp200,000</name>
+   <tag></tag>
+   <elementGuidId>abeb434b-95af-492d-b793-64b22d7f1cc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-price.justify-content-center.align-items-center.d-flex.gap-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flush-collapse147c8bcd-d145-4612-b95b-27182de9eaa0']/div[5]/div[2]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^CourseCheck / uncheck module according your needGolang DatabasetestRp200,000$/ >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d87e5de-07d8-45f9-99c0-80c077236669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-price justify-content-center align-items-center d-flex gap-2</value>
+      <webElementGuid>da189f63-cb2a-4a91-b6e6-53e31b1124b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp200,000</value>
+      <webElementGuid>897e96bb-8f07-4932-bb51-b86bfd3fe7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-collapse147c8bcd-d145-4612-b95b-27182de9eaa0&quot;)/div[@class=&quot;ec-row d-flex flex-row card-course py-2&quot;]/div[@class=&quot;col-6 text-end&quot;]/div[@class=&quot;d-flex flex-row gap-2 align-items-center justify-content-end&quot;]/a[@class=&quot;d-flex flex-row text-end justify-content-end ms-auto gap-2 align-items-center price-accordion&quot;]/div[@class=&quot;custom-price justify-content-center align-items-center d-flex gap-2&quot;]</value>
+      <webElementGuid>6795e014-41d2-4ed9-ab87-99b1af8ab8d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flush-collapse147c8bcd-d145-4612-b95b-27182de9eaa0']/div[5]/div[2]/div/a/div</value>
+      <webElementGuid>72262954-8801-4a8e-bcd8-798a254abf24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::div[3]</value>
+      <webElementGuid>789225e3-dc97-4529-bd3e-bb32d7110703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Golang Database'])[1]/following::div[3]</value>
+      <webElementGuid>848475b2-317d-4406-aca0-f9c045617817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp120,000'])[2]/preceding::div[2]</value>
+      <webElementGuid>c073cdbc-59be-41ee-b34a-758f1ce2c640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>71930f08-e52f-4689-92c3-17f225996a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp200,000' or . = 'Rp200,000')]</value>
+      <webElementGuid>2bbd6067-86bd-49e7-8a60-7bf7426c531b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

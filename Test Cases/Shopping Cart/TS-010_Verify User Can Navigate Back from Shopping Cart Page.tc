@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the 'Back' button on the Shopping Cart page, they are redirected to the last visited page. The user's browsing history is respected, ensuring smooth navigation.</description>
+   <name>TS-010_Verify User Can Navigate Back from Shopping Cart Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>411656fb-f92d-4da4-b7bd-b33d26e0fbef</testCaseGuid>
+</TestCaseEntity>

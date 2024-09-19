@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Login_bi bi-arrow-right</name>
+   <tag></tag>
+   <elementGuidId>18e058f9-b03e-40b3-bfd3-e1282123f7ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-arrow-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-banner']/div/div[2]/div/div/form/div[3]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Login &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d5dd0f95-f85a-44dd-a532-e602d96fec52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-arrow-right</value>
+      <webElementGuid>e24ddc9b-a03b-4dbe-93e6-4d94b2d254ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-banner&quot;)/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 ec-col-md-4 d-flex&quot;]/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 d-flex flex-column justify-content-end&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;d-flex align-items-center gap-95&quot;]/button[@class=&quot;ec-btn ec-btn-primary ec-btn-rounded w-182&quot;]/i[@class=&quot;bi bi-arrow-right&quot;]</value>
+      <webElementGuid>a2da35ca-6931-46ab-a975-0d7eba43c906</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-banner']/div/div[2]/div/div/form/div[3]/button/i</value>
+      <webElementGuid>332ddf03-13b8-4157-bb17-9f5ce633a1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/i</value>
+      <webElementGuid>4817b0c4-b6b6-4493-b418-96343c9d3cb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

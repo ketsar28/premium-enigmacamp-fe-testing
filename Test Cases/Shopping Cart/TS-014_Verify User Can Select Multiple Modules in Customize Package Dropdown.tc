@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user selects multiple product packages and clicks the &quot;Customize Package&quot; dropdown, the checkboxes for the selected modules are checked correctly. The quantity in the Order Details reflects the number of selected package products, and the subtotal updates accurately to reflect the combined price of all selected modules across the product</description>
+   <name>TS-014_Verify User Can Select Multiple Modules in Customize Package Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>489db5c2-fb31-477d-aa7f-b25fdeed678f</testCaseGuid>
+</TestCaseEntity>

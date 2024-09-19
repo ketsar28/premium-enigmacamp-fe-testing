@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can successfully update the profile by filling in the &quot;Place of Birth,&quot; &quot;Education,&quot; and &quot;Gender&quot; fields. Upon clicking the &quot;Save Changes&quot; button, the profile is updated, and a popup box with the message &quot;Profile Updated&quot; appears, confirming the successful data update.</description>
+   <name>TS-118_Verify Successful Profile Update with Place of Birth, Education, and Gender Fields Filled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35b0837c-820e-47e3-b4d3-afd92703448f</testCaseGuid>
+</TestCaseEntity>

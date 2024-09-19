@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Education&quot; field filters the input based on what the user types. When the user types &quot;College Graduates&quot; in the &quot;Education&quot; field, the field successfully filters and displays one option in the dropdown menu.</description>
+   <name>TS-111_Verify Education Field Filters Input Correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>174d9568-c76e-47e1-9257-3850894fddef</testCaseGuid>
+</TestCaseEntity>

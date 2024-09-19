@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_bi bi-eye</name>
+   <tag></tag>
+   <elementGuidId>fba5fce0-2707-4a8a-8a84-0c9542d76bd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-banner']/div/div[2]/div/div/form/div[2]/div/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>260c95bb-01d6-4a28-8b8e-a7a99e2182de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye</value>
+      <webElementGuid>853ad56e-678b-4ae9-9f33-b8360e7037f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-banner&quot;)/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 ec-col-md-4 d-flex&quot;]/div[@class=&quot;ec-row&quot;]/div[@class=&quot;ec-col-12 d-flex flex-column justify-content-end&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;ec-row py-3&quot;]/div[@class=&quot;ec-col-12&quot;]/div[@class=&quot;ec-input-group-rounded position-relative&quot;]/div[@class=&quot;d-flex align-items-top h-100 position-absolute end-0 pe-3&quot;]/button[@class=&quot;btn-ghost&quot;]/i[@class=&quot;bi bi-eye&quot;]</value>
+      <webElementGuid>73b3f923-5bd9-41f8-bf8b-aedea9ebf715</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-banner']/div/div[2]/div/div/form/div[2]/div/div/div/button/i</value>
+      <webElementGuid>7366a79e-305a-4b67-8b4a-0ad296ccf5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>e4cf50bf-c4f1-4d11-91e2-ef1000e4ea6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user selects a product Package from the available products on the Shopping Cart page and clicks the &quot;Customize Package&quot; dropdown twice, the dropdown functions according to the requirements. The dropdown displays relevant information, such as the package title, available module options, and the price for each module. Ensure that all the options and prices update accurately in the dropdown.</description>
+   <name>TS-012_Verify User Can Click Customize Package Dropdown Twice for Selected Package in Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7290c847-888d-4051-8d71-889e0ea92692</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after the user adds products to the cart, logs out, and logs back in, all previously added products remain in the Shopping Cart. The quantity of products in the cart matches the number of products added before logging out.</description>
+   <name>TS-017_Verify Products in Cart Persist After Logout and Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bac03fe-5e3a-4a1b-ba7d-1f37c6613f22</testCaseGuid>
+</TestCaseEntity>

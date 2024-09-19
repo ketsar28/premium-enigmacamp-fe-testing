@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the 'Customize Package' dropdown for a product package in the Shopping Cart, the dropdown functions according to the requirements. The dropdown displays information such as the package title, available module options within the package, and the price for each module.</description>
+   <name>TS-011_Verify User Can Customize Package in Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83d95b59-729b-4b84-8e7a-b839201e4e9d</testCaseGuid>
+</TestCaseEntity>

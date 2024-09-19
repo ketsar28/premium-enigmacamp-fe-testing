@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user cannot input invalid characters in the &quot;Place of Birth&quot; field and receives a validation message: &quot;Birth Place should be alphabetic&quot;.</description>
+   <name>TS-102_Verify User Cannot Input Invalid Characters in Place of Birth Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41ee6f54-7fc6-479d-ab8c-2380aef70c39</testCaseGuid>
+</TestCaseEntity>

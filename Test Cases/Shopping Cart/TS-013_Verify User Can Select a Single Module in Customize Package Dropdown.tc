@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user selects a product package and clicks the &quot;Customize Package&quot; dropdown, the checkbox for the selected module is checked correctly. The quantity in the Order Details reflects the number of selected package products, and the subtotal updates accurately to reflect the price of the selected module in the product package.</description>
+   <name>TS-013_Verify User Can Select a Single Module in Customize Package Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bddd8f3d-076d-4214-981f-a9d6e5f7a9ee</testCaseGuid>
+</TestCaseEntity>

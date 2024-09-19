@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Phone Number&quot; field is disabled for editing, and the user cannot input a new value in the &quot;Phone Number&quot; field.</description>
+   <name>TS-106_Verify Phone Number Field is Disabled for Editing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ff70e4e-e891-44ee-b494-837c7b10f2c2</testCaseGuid>
+</TestCaseEntity>

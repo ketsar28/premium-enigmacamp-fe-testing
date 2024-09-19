@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Email&quot; field is disabled for editing, and the user cannot input a new value in the &quot;Email&quot; field.</description>
+   <name>TS-110_Verify Email Field is Disabled for Editing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97ccf890-2a1e-417f-be50-fd61e16cc7b3</testCaseGuid>
+</TestCaseEntity>

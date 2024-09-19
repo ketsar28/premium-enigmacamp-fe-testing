@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user repeatedly clicks the &quot;Check Out&quot; button without selecting any product checkboxes on the Shopping Cart page and then refreshes the page, all previously added products remain in the Shopping Cart. The state of the cart is maintained even after multiple attempts to check out and a page refresh.</description>
+   <name>TS-006_Verify Products Remain in Cart After Multiple Check Out Clicks Without Selection and Page Refresh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c81832a-0eb2-48ca-afe0-cbc47119aa3f</testCaseGuid>
+</TestCaseEntity>

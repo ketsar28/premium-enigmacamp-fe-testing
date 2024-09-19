@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can successfully update the profile picture by selecting an image from local storage. After the user clicks &quot;Change Picture&quot; and uploads the image, the file is uploaded according to the requirements, and a popup box with the message &quot;Profile Updated&quot; appears, confirming the successful profile picture update.</description>
+   <name>TS-119_Verify Data Persistence After Refresh When Place of Birth, Education, and Gender Fields Are Updated</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5dcce43-9be6-43f4-914e-a69f47e77a38</testCaseGuid>
+</TestCaseEntity>

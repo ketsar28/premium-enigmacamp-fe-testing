@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the rubbish bin (trash can) icon for a product in the Shopping Cart, the selected product is removed from the cart. The cart icon's item counter in the top-right corner decreases accordingly, reflecting the updated number of items in the cart.</description>
+   <name>TS-009_Verify User Can Remove Individual Product from Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1574ec75-2497-4847-a2b2-748e932d872e</testCaseGuid>
+</TestCaseEntity>

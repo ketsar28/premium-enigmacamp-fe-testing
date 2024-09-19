@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Gender&quot; field filters the input based on what the user types. When the user types &quot;MALE&quot; in the &quot;Gender&quot; field, the field successfully filters the input and displays two options in the dropdown menu for the user to choose from.</description>
+   <name>TS-115_Verify Gender Field Filters Input Correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9253ef67-c915-4a82-a2ae-4a6e5bb36556</testCaseGuid>
+</TestCaseEntity>

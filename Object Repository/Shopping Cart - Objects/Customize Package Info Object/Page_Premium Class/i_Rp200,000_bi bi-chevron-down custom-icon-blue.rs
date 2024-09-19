@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rp200,000_bi bi-chevron-down custom-icon-blue</name>
+   <tag></tag>
+   <elementGuidId>c128017d-f416-4f5d-b674-6f5bc6587855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-chevron-down.custom-icon-blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[5]/div[2]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Rp200,000&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b6462abe-2fd1-4cf1-9bc5-3b466f5ed633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-chevron-down custom-icon-blue</value>
+      <webElementGuid>0a095d51-a88c-4fae-a294-526ba0432510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2&quot;)/div[@class=&quot;ec-row d-flex flex-row card-course py-2&quot;]/div[@class=&quot;col-6 text-end&quot;]/div[@class=&quot;d-flex flex-row gap-2 align-items-center justify-content-end&quot;]/a[@class=&quot;d-flex flex-row text-end justify-content-end ms-auto gap-2 align-items-center price-accordion&quot;]/i[@class=&quot;bi bi-chevron-down custom-icon-blue&quot;]</value>
+      <webElementGuid>6d7a0a9a-06e7-4315-88c9-0346b434acdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[5]/div[2]/div/a/i</value>
+      <webElementGuid>59fedfa9-e3f0-4939-996a-fdc7834a4370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/a/i</value>
+      <webElementGuid>3da72e6c-ac5f-4d47-aa19-92c106245af6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

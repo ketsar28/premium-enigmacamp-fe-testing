@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile UpdatedYour profile has been up_5486d4</name>
+   <tag></tag>
+   <elementGuidId>31ab9af4-3391-4a33-a4db-ae5b5874df6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Profile UpdatedYour profile has been updated successfully Ok&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18ce0a04-2e05-4b1c-99ae-8594f4529310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>bcb4f909-ce0e-4517-a826-9fcef37cc3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile UpdatedYour profile has been updated successfully Ok </value>
+      <webElementGuid>711f713d-6e48-4538-84e3-f109711609ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-profile[1]/div[@class=&quot;d-flex flex-column pt-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;tab-content&quot;]/app-general-info[1]/app-modal-dialogue[1]/div[@id=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered custom-modal-width&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>5d794d63-add9-4701-82a9-8824adf526ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div</value>
+      <webElementGuid>23498a40-144b-4b9c-87f7-498cb7cfaeff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save changes'])[1]/following::div[3]</value>
+      <webElementGuid>88a662a0-0e04-4f27-85bd-2e1dcfe13bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Gender'])[1]/following::div[5]</value>
+      <webElementGuid>83447ca0-3480-4b05-a231-2948937eb603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-modal-dialogue/div/div/div</value>
+      <webElementGuid>75174db5-f158-4a7b-a3e9-ad6a3edee9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile UpdatedYour profile has been updated successfully Ok ' or . = 'Profile UpdatedYour profile has been updated successfully Ok ')]</value>
+      <webElementGuid>8b0d884d-86df-45c6-b0d1-2f51bd06453b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

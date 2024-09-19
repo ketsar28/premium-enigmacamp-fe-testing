@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp120,000_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>5e3d916b-9af6-4ca6-b07c-bf9f0b9a7dd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ec-fs-5.fw-medium.ec-neutral-900.subtitle-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div/div/div[2]/div[5]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Rp120,000&quot;i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3bebfa82-fbf9-4a0e-a42d-226061a158d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-fs-5 fw-medium ec-neutral-900 subtitle-20</value>
+      <webElementGuid>e5f90c49-9b7e-4a6b-948c-da1c88ff7467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp120,000</value>
+      <webElementGuid>b43684e2-dd00-451c-9950-b9750ff3a557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/app-modal-checkout[1]/div[@id=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered custom-modal-width&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;container-header&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ec-row pt-2&quot;]/div[@class=&quot;ec-col-6 text-end&quot;]/span[@class=&quot;ec-fs-5 fw-medium ec-neutral-900 subtitle-20&quot;]</value>
+      <webElementGuid>f1a125ee-2d43-42eb-9b1e-aeb63764f97f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div[2]/div[5]/div[2]/span</value>
+      <webElementGuid>998de309-d94c-421b-aa2e-eaf2c13af1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::span[1]</value>
+      <webElementGuid>f96d3b15-8175-415f-afc1-2a17d71ea35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp120,000'])[4]/following::span[2]</value>
+      <webElementGuid>e2aab2b4-ca99-41f6-8ef6-f41c3b72c99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[2]/preceding::span[1]</value>
+      <webElementGuid>39085579-bc0c-4670-ad55-f7967aca2362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/preceding::span[1]</value>
+      <webElementGuid>e1d38154-e317-46df-b42b-d2224911ab0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/span</value>
+      <webElementGuid>1c9ec43c-f892-44e4-a662-d1bbb907ad3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp120,000' or . = 'Rp120,000')]</value>
+      <webElementGuid>9fbcd40b-b12d-4943-833d-691c16d3e5d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

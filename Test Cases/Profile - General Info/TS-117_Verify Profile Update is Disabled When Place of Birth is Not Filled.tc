@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user cannot update the profile when only the &quot;Education&quot; and &quot;Gender&quot; fields are filled without entering a value in the &quot;Place of Birth&quot; field. The &quot;Save Changes&quot; button remains disabled, preventing the user from making any updates.</description>
+   <name>TS-117_Verify Profile Update is Disabled When Place of Birth is Not Filled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac09a55d-095b-4ee9-8c4b-ae6b20aac781</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can successfully update the profile by filling in only the &quot;Place of Birth&quot; field without entering values in the &quot;Education&quot; and &quot;Gender&quot; fields. Upon saving, a popup box with the message &quot;Profile Updated&quot; appears, confirming the successful update.</description>
+   <name>TS-116_Verify Successful Profile Update with Only Place of Birth Field Filled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88388dff-7f24-49ab-8c3e-3c2f93217dd2</testCaseGuid>
+</TestCaseEntity>

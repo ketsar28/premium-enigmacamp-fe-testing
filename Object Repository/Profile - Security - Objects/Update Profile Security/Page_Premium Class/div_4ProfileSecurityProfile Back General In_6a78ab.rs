@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4ProfileSecurityProfile Back General In_6a78ab</name>
+   <tag></tag>
+   <elementGuidId>6c4b1b24-5485-4dde-9e5e-65555df964ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;4ProfileSecurityProfile Back General Info Security PasswordYou are allowed to ch&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c9b4b1f-fb24-48b0-9c48-7dd5759a5f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-content</value>
+      <webElementGuid>b2e96499-1f51-4998-be99-64075421ee2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent Password Password is required. New PasswordConfirmation New Password Save Password </value>
+      <webElementGuid>d2bda1a7-8da1-4c18-96fa-a2535e585478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]</value>
+      <webElementGuid>52f8e032-affa-4252-af36-abc2877e5de0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[1]</value>
+      <webElementGuid>9f1bf42b-d387-4bc2-83dc-4344c434579f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[2]</value>
+      <webElementGuid>0d4b6c4a-869d-44e8-8014-42e6bccc42ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>50736ae8-75d5-4f49-843f-6a3a198f7cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent Password Password is required. New PasswordConfirmation New Password Save Password ' or . = ' 4ProfileSecurityProfile Back General Info  Security PasswordYou are allowed to change your passwordCurrent Password Password is required. New PasswordConfirmation New Password Save Password ')]</value>
+      <webElementGuid>72546299-a009-4d6e-9b83-1e824d180273</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

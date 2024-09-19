@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user repeatedly clicks the &quot;Check Out&quot; button after selecting product checkboxes on the Shopping Cart page, and then refreshes the page, all products remain in the cart. The counter on the cart icon in the top-right corner does not decrease, and the checkboxes for all products are reset to an unchecked state after the page refresh.</description>
+   <name>TS-007_Verify Cart and Checkbox Behavior After Multiple Check Out Clicks and Page Refresh with Selected Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fa1187e-5b41-4a79-b201-643bf41ef2fd</testCaseGuid>
+</TestCaseEntity>

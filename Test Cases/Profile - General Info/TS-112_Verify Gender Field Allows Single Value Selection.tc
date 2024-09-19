@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Gender&quot; field functions as per the requirement. The user can select one available option from the &quot;Gender&quot; field, and the selected option is displayed as the value in the &quot;Gender&quot; field.</description>
+   <name>TS-112_Verify Gender Field Allows Single Value Selection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e603a7a-0c94-4221-992d-5494a02cdc54</testCaseGuid>
+</TestCaseEntity>

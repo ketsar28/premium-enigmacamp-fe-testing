@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after the user clicks the &quot;Profile&quot; menu on the left-bar, navigates to the &quot;General Info&quot; tab, and then clicks the &quot;Back&quot; button, the user is correctly redirected to the last visited page.</description>
+   <name>TS-001_Verify User Can Navigate Back to Previous Page Using Back Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26b5a19f-aa9c-415f-9d71-1e34026491bb</testCaseGuid>
+</TestCaseEntity>

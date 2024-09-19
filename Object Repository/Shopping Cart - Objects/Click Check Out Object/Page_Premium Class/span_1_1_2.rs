@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_1_2</name>
+   <tag></tag>
+   <elementGuidId>ad0ab7f4-a9db-4f74-9439-5e3805314a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ec-fs-5.fw-medium.ec-neutral-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div/div/div[2]/div[3]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> internal:text=&quot;1&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ae2e272-4216-4e0a-abd6-3842889e4d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-fs-5 fw-medium ec-neutral-900</value>
+      <webElementGuid>0343b913-9304-453a-867d-cb3912615511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e107d5b1-32cb-4f9f-8902-deb70f8c0e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[1]/div[@class=&quot;wrapper-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;d-flex flex-column z-1 position-relative&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/app-shopping-cart[1]/app-modal-checkout[1]/div[@id=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered custom-modal-width&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;container-header&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ec-row pt-3&quot;]/div[@class=&quot;ec-col-6 text-end&quot;]/span[@class=&quot;ec-fs-5 fw-medium ec-neutral-900&quot;]</value>
+      <webElementGuid>e6e22200-500a-401d-b175-fa2dfc25bf39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div[2]/div[3]/div[2]/span</value>
+      <webElementGuid>23f0ce5a-cd6d-45a8-b261-086460f5eb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[2]/following::span[1]</value>
+      <webElementGuid>78865a93-869e-40e0-8d29-1cff1f119e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Detail'])[1]/following::span[2]</value>
+      <webElementGuid>8ebc0c52-5a84-41bd-8e79-bcddf04141e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[2]/preceding::span[1]</value>
+      <webElementGuid>fd978faa-5b99-4519-8900-faad928907af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp120,000'])[4]/preceding::span[2]</value>
+      <webElementGuid>ca2aeccb-64e8-4cf6-bd05-ee4f2827aafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span</value>
+      <webElementGuid>b6e8510d-33ef-4a7a-9dc2-4d40f7f0ff99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>d757b2ff-190b-4c08-9d83-8e5ef077d50f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

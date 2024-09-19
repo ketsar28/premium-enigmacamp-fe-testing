@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the 'Explore Course' button, selects a course or package, and clicks 'Add to Cart' on the chosen course/package, the user is redirected to the Home/Catalogue page. The cart icon updates to reflect the added package, and the Shopping Cart page correctly displays the increased number of items, with the title reflecting the updated total.</description>
+   <name>TS-001_Verify User Can Add Single Package to Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1a8ec51-17c5-47f6-9575-7a7187fd7c53</testCaseGuid>
+</TestCaseEntity>

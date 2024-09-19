@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after selecting a product on the Shopping Cart page and clicking the 'Check Out' button, the user can close the modal box by clicking the 'X' icon at the top right corner. The modal box closes successfully, and the selected product remains available on the Shopping Cart page.</description>
+   <name>TS-016_Verify User Can Close the Checkout Modal Box Without Proceeding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5159f395-e99c-4b60-a1e8-809855f2ab86</testCaseGuid>
+</TestCaseEntity>

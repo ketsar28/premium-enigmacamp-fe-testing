@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Education&quot; field functions according to the requirement, allowing the user to select one of the available options, and the selected option is displayed as the value in the &quot;Education&quot; field.</description>
+   <name>TS-107_Verify User Can Select a Single Value in Education Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae6f962d-3ba6-4206-aa6a-3b3fd8b317c3</testCaseGuid>
+</TestCaseEntity>

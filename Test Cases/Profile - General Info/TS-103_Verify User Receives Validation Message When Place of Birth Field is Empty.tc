@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user does not input any value in the &quot;Place of Birth&quot; field and clicks away, a validation message &quot;Birth Place is required.&quot; is displayed.</description>
+   <name>TS-103_Verify User Receives Validation Message When Place of Birth Field is Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df731e0f-c00e-4ab3-8843-d6538d41b0f5</testCaseGuid>
+</TestCaseEntity>

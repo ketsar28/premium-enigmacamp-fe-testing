@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when the user clicks the 'Delete all' button on the Shopping Cart page, all products in the cart are removed. The cart icon's item counter in the top-right corner is reduced to 0, and the Shopping Cart page displays the default view for an empty cart.</description>
+   <name>TS-008_Verify User Can Delete All Products from Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>161e16af-758d-4f03-93bb-913aa7868557</testCaseGuid>
+</TestCaseEntity>

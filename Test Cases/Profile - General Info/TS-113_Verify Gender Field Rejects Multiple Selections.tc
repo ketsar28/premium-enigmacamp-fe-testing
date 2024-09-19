@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the &quot;Gender&quot; field rejects multiple selections. When the user tries to select more than one option in the &quot;Gender&quot; field, the system only accepts a single valid option or rejects the multiple selections.</description>
+   <name>TS-113_Verify Gender Field Rejects Multiple Selections</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ff94532-9ef7-4ad3-9aff-8b16fd3efdf8</testCaseGuid>
+</TestCaseEntity>

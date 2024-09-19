@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_swift di ganti terserah</name>
+   <tag></tag>
+   <elementGuidId>75892cf4-b781-44a4-b552-f13c3f91eccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;swift di ganti terserah&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bea82f7-e38a-4987-b086-68dbd98e296d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>6e0a17e6-226a-4a7b-b131-eab2819c6cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-collapse collapse show</value>
+      <webElementGuid>9c6bd684-d89e-4579-974d-e0aebd23138d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483</value>
+      <webElementGuid>0e0cbc40-4e74-48b0-8473-76f260798476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>swift di ganti terserah</value>
+      <webElementGuid>a35be73d-be03-4934-9c48-a18a33a66ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483&quot;)</value>
+      <webElementGuid>9b56bf03-7a5b-4050-8886-a02fe4352219</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483']</value>
+      <webElementGuid>ba2ad9a5-2da7-46e0-9935-608a26e0b4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flush-collapse0f01b287-5e2e-4996-8824-f063ac57e2c2']/div[6]/div/div/div/span[2]</value>
+      <webElementGuid>b4e1a96f-56d8-44ae-8979-eee7c2512867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swift'])[1]/following::span[1]</value>
+      <webElementGuid>152008d6-849b-4fb2-8c08-2b23412978fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp200,000'])[1]/following::span[2]</value>
+      <webElementGuid>a08e17fb-fd4a-4c98-93e3-cb7bf8b17005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp120,000'])[1]/preceding::span[1]</value>
+      <webElementGuid>59690c90-e3fb-421f-bc64-23caa9f06444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Rp9'])[1]/preceding::span[2]</value>
+      <webElementGuid>27ff5b30-5449-4f4a-b324-9de7413e39b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='swift di ganti terserah']/parent::*</value>
+      <webElementGuid>7cf725e8-bea9-40bc-8ef9-893633f2efee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/span[2]</value>
+      <webElementGuid>65042809-49a4-426c-a99e-9a353cea95d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'descriptionee7b6ec2-9ddc-48ec-ae4c-e93353c62483' and (text() = 'swift di ganti terserah' or . = 'swift di ganti terserah')]</value>
+      <webElementGuid>d93a9192-231a-413e-8747-e63055da2ec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

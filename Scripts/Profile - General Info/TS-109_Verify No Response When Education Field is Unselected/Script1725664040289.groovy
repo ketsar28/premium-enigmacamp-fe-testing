@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.premium.enigmacamp.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Profile - General Info - Objects/Education Field Object/Page_Premium Class/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Profile - General Info - Objects/Education Field Object/Page_Premium Class/input_Email_email'), 

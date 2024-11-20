@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.premium.enigmacamp.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Shopping Cart - Objects/Click Multiple Check Out And Refresh Page Object/Page_Premium Class/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Shopping Cart - Objects/Click Multiple Check Out And Refresh Page Object/Page_Premium Class/input_Email_email'), 

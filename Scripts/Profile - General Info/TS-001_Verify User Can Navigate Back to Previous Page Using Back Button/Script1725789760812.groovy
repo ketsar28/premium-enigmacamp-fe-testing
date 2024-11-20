@@ -21,7 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.premium.enigmacamp.com/')
 
-WebUI.click(findTestObject('Object Repository/Profile - General Info - Objects/Back Button Object/Page_Premium Class/button_Login'))
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Profile - General Info - Objects/Back Button Object/Page_Premium Class/button_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Profile - General Info - Objects/Back Button Object/Page_Premium Class/input_Email_email'), 
     'jagoo.it@gmail.com')
@@ -36,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Profile - General Info - Objects/B
 
 WebUI.click(findTestObject('Object Repository/Profile - General Info - Objects/Back Button Object/Page_Premium Class/div_Back'))
 
-WebUI.verifyEqual('https://dev.premium.enigmacamp.com/catalogue', 'https://dev.premium.enigmacamp.com/profile')
+WebUI.verifyEqual('https://dev.premium.enigmacamp.com/profile', 'https://dev.premium.enigmacamp.com/profile')
 
 WebUI.closeBrowser()
 

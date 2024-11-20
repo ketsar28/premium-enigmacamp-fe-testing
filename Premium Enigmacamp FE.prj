@@ -6,12 +6,12 @@
    <UUID>a7e743f4-804b-43e7-bbc6-5a58f3737ddc</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>9.7.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.7.1</modifiedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\User\Downloads\katalon\final project\Premium Enigmacamp FE\Premium Enigmacamp FE.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\User\Documents\AAW\Porfolio Projects\Testing\premium-enigmacamp-fe-katalon\Premium Enigmacamp FE.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
